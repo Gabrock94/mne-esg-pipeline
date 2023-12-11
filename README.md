@@ -10,3 +10,4 @@ Inspired by [mne-bids-pipeline](https://github.com/mne-tools/mne-bids-pipeline),
  - Generation of evoked objects
  - Generation of topographies with simultaneous EEG and ESG maps. 
 
+## Acknowledgments ##
